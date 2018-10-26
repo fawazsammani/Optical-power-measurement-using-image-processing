@@ -11,8 +11,8 @@ The following graphs demonstrate the developed equations:<br/><br/>
 ![graph-0](https://user-images.githubusercontent.com/30661597/47572245-60f12580-d8ef-11e8-8266-eb19606a1f92.png)
 ![graphs-1](https://user-images.githubusercontent.com/30661597/47572253-6484ac80-d8ef-11e8-81d2-581dc6112534.png)
 
-## Using our method for blur measurement on any images
-You may also use our proposed method of blur measurement for any image you want. Below is the results of our method applied on other images.<br/><br/>
+## Using our method for blur measurement on any image
+You may also use our proposed method of blur measurement to measure the blur percentage for any image you wish. Below is the results of our method applied on other images.<br/><br/>
 ![1](https://user-images.githubusercontent.com/30661597/47572418-c04f3580-d8ef-11e8-9f7d-0b12ff800a7d.png)
 ![2](https://user-images.githubusercontent.com/30661597/47572425-c513e980-d8ef-11e8-875f-7eda5747772a.png)
 ![3](https://user-images.githubusercontent.com/30661597/47572428-c7764380-d8ef-11e8-9bd2-55a4336c97c7.png)
