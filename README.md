@@ -19,15 +19,3 @@ You may also use our proposed method of blur measurement for any image you want.
 ![4](https://user-images.githubusercontent.com/30661597/47572487-f1c80100-d8ef-11e8-8887-07b489aad5e1.PNG)
 ![7](https://user-images.githubusercontent.com/30661597/47572491-f42a5b00-d8ef-11e8-96a9-d3df9cb1706e.PNG)
 
-## Citation
-`
-@article{ElSayed2018OpticalPM,
-  title={Optical power measurement using image processing techniques},
-  author={Mahmoud El-Sayed and Fawaz Sammani and Abdelsalam Hamdi and Salman Ali Al-Ahdal},
-  journal={2018 International Conference on Signals and Systems (ICSigSys)},
-  year={2018},
-  pages={205-208}
-}
-`
-
-
