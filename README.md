@@ -1,8 +1,8 @@
 # MATLAB implementation of the Paper: Optical Power Measurement using Image Processing Techniques [Paper](https://ieeexplore.ieee.org/document/8372667)
 ## Files
 There are two files.  
-`blur` is used to measure the blur percentage between the given image and the referenced image<br/>
-`compare` is used to compare our method of blur measurement to other methods
+`blur.m` is used to measure the blur percentage between the given image and the referenced image<br/>
+`compare.m` is used to compare our method of blur measurement to other methods
 <br/>
 You may use `sum(I_bw(:)==0)` to calculate the number of black pixels. 
 <br/>
