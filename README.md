@@ -1,4 +1,4 @@
-# MATLAB implementation of the Paper: Optical Power Measurement using Image Processing Techniques [Paper](https://ieeexplore.ieee.org/document/8372667)
+## MATLAB implementation of the Paper: Optical Power Measurement using Image Processing Techniques [Paper](https://ieeexplore.ieee.org/document/8372667)
 ## Files
 There are two files.  
 `blur.m` is used to measure the blur percentage between the given image and the referenced image<br/>
